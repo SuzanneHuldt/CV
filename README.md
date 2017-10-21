@@ -15,7 +15,7 @@ In my undergraduate and postgraduate education I have focussed on formal methods
  - I have taken and enjoyed undergraduate and postgraduate modules in formal logical methods (including propositional frameworks (deontic, alethic, temporal etc) as well as more complex formalisms. I am 
 competent with lambda calculus and have undertaken academic study of the fundamentals of functional programming. 
  - My masters dissertation (for which I received a strong distinction grade) focussed on child acquisition of disjunction and invovled a considerable literature review concerning formal
- - semantic algebras, as well as original theoretical work employing formal description and set theoretical models. 
+ semantic algebras, as well as original theoretical work employing formal description and set theoretical models. 
  - I have a good grounding in applied statistics and am trained in SPSS.
 
 
