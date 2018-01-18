@@ -22,7 +22,7 @@ In addition to the course material, I have taken advantage of Makers' multilingu
 - Study Design and execution
 - Linguistic analysis (grammatical, phonological, semantic (including formal logics)
 
-#### Fast Learner:
+### Fast Learner:
 I am driven by curiosity and pursuit of excellence, and have repeatedly demonstrated an ability to quickly master complex new information.
 - Before starting at Makers Academy I had very little coding experience, but repeatedly pushed myself to undertake challenging technical projects during the course, including building a [blockchain](https://github.com/SuzanneHuldt/Building_a_Blockchain) and a a [game-playing bot](https://github.com/SuzanneHuldt/robot-wars) as a final project.
 - During my year-long Masters degree, I learned, with no previous practical science experience, to design and execute a full psycho-linguistic study and conduct a statistical data analysis at a post-graduate level, for which I received distinction grades. Having chosen a research-focussed interdisciplinary track I was also able to gain a grounding in neuro-psychology and computer science topics in order to produce distinction grade post-graduate level work in these fields, some of which is being developed for publication.
