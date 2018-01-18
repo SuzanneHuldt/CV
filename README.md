@@ -7,7 +7,7 @@ I am Makers Academy graduate (January 2018) seeking my first software engineerin
 ## Skills and Strengths
 
 ### Technical:
-- During my time at Makers Academy I have developed a varied skill-set for full stack software development. My technical experience includes Ruby, Rails, JavaScript, JQuery.
+- During my time at Makers Academy I have developed a varied skill-set for full stack software development. My technical experience includes Ruby, Rails, JavaScript, JQuery, HTML, CSS, and Bootstrap.
 - Beyond specific technical implementations, I am trained in Object Orientated programming principles, and to think about design and execution according to SOLID principles.
 - As such, I practice test driven development - primarily using Jasmine, Rspec, and Capybara and able to adapt quickly to new testing frameworks - and build my code around robust behavioural testing.
 - In addition to the course material, I have taken advantage of Makers' multilingual approach to pursue an interest in other programming languages, including C, Python and Clojure.
