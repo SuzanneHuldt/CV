@@ -2,7 +2,7 @@
 
 [|Skills|](#skills-and-strengths) [|Education|](#education) [|Interests|](#interests) [|Projects|](#projects)
 
-I am Makers Academy graduate (January 2018) seeking my first software engineering role. I am looking for challenging work in an environment that will push me to improve my technical skills and grow as a developer. Having completed an MRes in linguistics and cognitive sciences, I am pursuing a career change, through which I hope to marry my interests in natural language, cognition, and formal logic with software engineering. As such I am particularly interested in development work involving natural language processing or machine learning.
+I am Makers Academy graduate (January 2018) seeking my first software engineering role. I am looking for challenging work in an environment that will push me to improve my technical skills and grow as a developer. Having completed an MRes in linguistics and cognitive sciences, I am pursuing a career change, through which I hope to marry my interests in natural language, cognition, and formal logic with software engineering. As such I am particularly interested in development work involving natural language processing, automation or machine learning.
 
 ## Skills and Strengths
 
@@ -36,7 +36,7 @@ I am driven by curiosity and a pursuit of excellence, and have repeatedly demons
 
 #### Makers Academy (October 2017 to January 2017)
 
-Highly selective three month intensive software development course.
+Highly selective, three month intensive software development course.
 
 #### UCL (University of London) 2016-2017
 
